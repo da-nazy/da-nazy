@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @da-nazy
+- 👋 Hi, I’m Ani Danleil Chukwuemeka 
 - 👀 I’m interested in programming and logic
 - 🌱 I’m currently learning Javascript for all its frame works and Java
 - 💞️ I’m looking to collaborate on any project that will challenge me to grow

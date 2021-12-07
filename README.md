@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ani Daniel Chukwuemeka 
 - 👀 I’m interested in programming and logic
-- 🌱 I’m currently learning Javascript for all its frame works and Java
+- 🌱 I work with java and Javascript
 - 💞️ I’m looking to collaborate on any project that will challenge me to grow
 - 📫 How to reach me @datableed for instagram
 
